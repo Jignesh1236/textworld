@@ -19,11 +19,6 @@
       "dest": "/dist/public/$1"
     }
   ],
-  "functions": {
-    "dist/index.js": {
-      "runtime": "nodejs18.x"
-    }
-  },
   "env": {
     "NODE_ENV": "production"
   }
